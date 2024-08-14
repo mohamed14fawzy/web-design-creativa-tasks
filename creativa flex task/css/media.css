@@ -1,0 +1,470 @@
+
+
+@media ( max-width: 560px)  {
+    
+.home-end 
+{
+      
+        flex-wrap: wrap;
+       
+        
+        margin-top: 100%;
+}
+
+.container
+{
+    width: 100%;
+}
+
+.header
+{
+    border-style: none;
+    margin: 0%;
+}
+
+nav
+{
+    display: block;
+    margin: auto;
+    
+}
+
+nav ul
+{
+
+display: block;
+margin: 1% 0;
+}
+
+.home-end
+{
+  
+   margin: 0;
+   padding: 0;
+}
+
+.home-end-section-x
+{
+        
+        width: 100%;
+        display:flex;
+        margin: 4% 0;
+        padding: 0%;
+}
+
+.home-end-section-x p {
+       
+        width: 100%;
+        display:block;
+        margin: 0;
+        padding: 0%;
+}
+
+.home-end-section-x h3 {
+        border-style: solid;
+        border-color: black;
+        height: 0;
+        padding: 0;
+        margin: 0;
+        width: 8%;
+        height: 33px;
+        margin: 0px 13px;
+        display: flex;
+        justify-content: center;
+        font-size: large;
+        align-self: center;
+        color: white;
+}
+
+
+
+.header-section-first-left {
+
+padding: 0;
+margin: auto;
+width: 100%;
+
+
+}
+.refix
+{
+    width: 100%;
+}
+.ul-section-first-left{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+.col-ctrl section {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 100%;
+}
+
+.two-asides-small-left {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.left-pic-first-side {
+    width: 100%;
+
+}
+
+.right-side-divs {
+    width: 100%;
+}
+.w-60 {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.col-ctrl {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.colomn-divs-2 {
+    width: 100%;
+margin: 2% 0;
+}
+
+.colomn-divs-2 p {
+    font-size: large ;
+
+}
+
+.w-30 {
+    width: 80%;
+}
+
+.big-section-two {
+    flex-direction: column
+    ;
+align-items: center;
+}
+
+.third-section {
+    
+display: flex;
+flex-direction: column;
+width: 80%;
+align-items: center;
+
+
+
+    }
+
+    .first-card-1
+    {
+        width: 100%;
+    }
+
+    .fourth {
+
+flex-direction: column;
+align-items: center;
+
+    }
+
+    .resolve img {
+        height: auto;
+
+    }
+
+    .d-flex-x {
+    margin: 0;
+    padding: 0;
+
+    
+    }
+
+    .fotter-l {
+       
+        flex-direction: column;
+        align-items: center;
+    }
+    .last-card-1 {
+        width: 100%;
+    }
+    .last-card-2 {
+        width: 100%;
+    }
+    .last-card-3 {
+        width: 100%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (min-width:561px) and (max-width:900px)
+
+{
+   p ,li ,h3,h1
+   {
+    font-size: xx-large;
+   }
+
+   button{
+padding: 5px;
+   }
+
+   .bold {
+    font-size: xx-large;
+   }
+   .colomn-divs-3 img {
+    height: auto;
+   }
+    
+    .home-end 
+    {
+          
+            flex-wrap: wrap;
+           
+            
+            margin-top: 100%;
+    }
+    
+    .container
+    {
+        width: 100%;
+    }
+    
+    .header
+    {
+        border-style: none;
+        margin: 0%;
+    }
+    .colomn-divs img {
+        height: auto;
+    }
+    nav
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: auto;
+        
+    }
+    
+    nav ul
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: auto;
+        
+  
+    margin: 1% 0;
+    }
+    
+    .home-end
+    {
+      
+       margin: 0;
+       padding: 0;
+    }
+    
+    .home-end-section-x
+    {
+            
+            width: 100%;
+            display:flex;
+            margin: 4% 0;
+            padding: 0%;
+    }
+    
+    .home-end-section-x p {
+           
+            width: 100%;
+            display:block;
+            margin: 0;
+            padding: 0%;
+    }
+    
+    .home-end-section-x h3 {
+            border-style: solid;
+            border-color: black;
+            height: 0;
+            padding: 0;
+            margin: 0;
+            width: 8%;
+            height: 33px;
+            margin: 0px 13px;
+            display: flex;
+            justify-content: center;
+            font-size: large;
+            align-self: center;
+            color: white;
+    }
+    
+    
+    
+    .header-section-first-left {
+    
+    padding: 0;
+    margin: auto;
+    width: 100%;
+    
+    
+    }
+    .refix
+    {
+        width: 100%;
+    }
+    .ul-section-first-left{
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        padding: 0;
+        align-items: center;
+    }
+    .col-ctrl section {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .two-asides-small-left {
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    .left-pic-first-side {
+        width: 100%;
+    
+    }
+    
+    .right-side-divs {
+        width: 100%;
+    }
+    .w-60 {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .col-ctrl {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .colomn-divs-2 {
+        width: 100%;
+    margin: 2% 0;
+    }
+    
+    .colomn-divs-2 p {
+        font-size: large ;
+    
+    }
+    
+    .w-30 {
+        width: 80%;
+    }
+    
+    .big-section-two {
+        flex-direction: column
+        ;
+    align-items: center;
+    }
+    
+    .third-section {
+        
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    
+    
+    
+        }
+    
+        .first-card-1
+        {
+            width: 100%;
+        }
+    
+        .fourth {
+    
+    flex-direction: column;
+    align-items: center;
+    
+        }
+    
+        .resolve img {
+           height: auto; 
+    
+        }
+    
+        .d-flex-x {
+        margin: 0;
+        padding: 0;
+    
+        
+        }
+    
+        .fotter-l {
+           
+            flex-direction: column;
+            align-items: center;
+        }
+        .last-card-1 {
+            width: 100%;
+        }
+        .last-card-2 {
+            width: 100%;
+        }
+        .last-card-3 {
+            width: 100%;
+        }
+    
+        .colomn-divs-2 p {
+            font-size: xx-large;
+        }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    }
