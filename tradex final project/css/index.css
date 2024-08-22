@@ -1,0 +1,480 @@
+
+
+.v-line
+{
+ width: 2px;
+ height: 23px;
+}
+
+.h-custom
+{
+    height: 80vh;
+}
+.w-30
+{
+    width: 30%;
+}
+.point
+{
+    width: 10px !important;
+    height: 10px !important;
+}
+
+.carousel-indicators
+{
+    margin-left: auto;
+    justify-self: end;
+    padding-bottom: 13%;
+    padding-right: 5%;
+}
+
+.hr-1
+{
+    background-color: blue;
+    width: 54px;
+    height: 3px;
+    margin-bottom: 2px;
+}
+.hr-1-x
+{
+    background-color: blue;
+    width: 55px;
+    height: 3px;
+    margin-bottom: 2px;
+    margin-left: 32%;
+}
+.hr-1
+{
+    background-color:blue;
+    width: 40px;
+    height: 3px;
+    margin-bottom: 2px;
+}
+
+.hr-2 
+{
+    background-color:blue;
+    width: 82px;
+    height: 3px;
+
+}
+
+.w-40
+{
+    width: 40%;
+}
+
+.m-custom
+{
+    
+}
+
+.custom-img-position
+{
+
+    transform: translate(50px,25px);
+    box-shadow: 0px 0px 9px lightslategrey;
+}
+
+.bg-fixed
+{
+    background-image: url(../imgs/service-bg.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 100vh;
+    height: 100%;
+}
+
+.overlay
+{
+    background-color: rgba(2, 2, 2, 0.801);
+    height: 100%;
+    width: 100%;
+}
+
+.h-0{
+    height: 0;
+}
+
+.w-h-custom
+{
+   
+}
+
+.card-x
+{
+    width: 30%;
+    height: 60%;
+    background-image: url(../imgs/port2-360x380.jpg);
+    background-size: 100% 100%;
+    height: 300px;
+}
+.card-y
+{
+    width: 30%;
+    height: 60%;
+    background-image: url(../imgs/computer-472016_1920-360x380.jpg);
+    background-size: 100% 100%;
+    height: 300px;
+}
+.card-z
+{
+    width: 30%;
+    height: 60%;
+    background-image: url(../imgs/office-1209640_1920-1.jpg);
+    background-size: 100% 100%;
+    height: 300px;
+}
+.card-a
+{
+    width: 30%;
+    height: 60%;
+    background-image: url(../imgs/port7.jpg);
+    background-size: 100% 100%;
+    height: 300px;
+}
+.card-b
+{
+    width: 30%;
+    height: 60%;
+    background-image: url(../imgs/suit-869380_1920.jpg);
+    background-size: 100% 100%;
+    height: 300px;
+}
+.card-c
+{
+    width: 30%;
+    height: 60%;
+    background-image: url(../imgs/port2-5-360x380.jpg);
+    background-size: 100% 100%;
+    height: 300px;
+}
+
+.card{
+    width: 30%;
+    height: 60%;
+    background-color: transparent;
+    border: 1px white solid;
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+    overflow: hidden;
+    
+}
+
+.card:hover
+{
+   
+}
+
+ .card:hover .hovered
+{
+     transform: translate(0px,-200px);
+ visibility: visible;
+
+}
+
+.w-90
+{
+    width: 90%;
+    bottom: 5%;
+    left: 5%;
+    transform: scale(0,1);
+    transition: 0.5s;
+    opacity: 0.9;
+}
+
+
+.card-x:hover .w-90
+{
+    transform: scale(1,1);
+}
+
+
+.hovered
+{
+height: 200px;
+
+visibility:hidden ;
+transition: 0.5s ease-in-out;
+top: 200px;
+}
+
+.team-1
+{
+    height: 300px;
+    
+}
+.team-1 img
+{
+ 
+   height: 100%;
+}
+
+
+.transform-class
+{
+    transform: translate(0px, -40%);
+    transition: 0.3s;
+} 
+
+ .team-1:hover .transform-class
+{
+    transform: translate(0px, -100%);
+}
+
+hr{
+    display: block;
+}
+
+.team-1:hover hr
+{
+   display: none;
+} 
+.team-2
+{
+    
+}
+.team-3
+{
+    
+}
+.h-2
+{
+height: 2px;
+background-color: black;
+opacity: 1;
+}
+
+.transform-icons{
+transform: translatey(50%);
+transition: 01s;
+}
+.team-1:hover .transform-icons
+{
+transform: translatey(-30%);
+}
+
+.btn-adjust
+{
+    width: 27%;
+    height: 50px;
+    border: 1px solid rgb(78, 149, 207);
+
+}
+
+.hr-pricing-adjust
+{
+    width: 40px;
+    margin: auto;
+    height: 2px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+
+.btnnn{
+
+    border: 1px solid rgb(78, 149, 207);
+}
+
+.w-10
+{
+    width: 13%;
+}
+.border-med-x
+{
+   
+    border-left: 0;
+}
+.border-med-y
+{
+   
+    border-right: 0;
+}
+.border-med
+{
+    border: solid 1 rgb(153, 153, 153);
+}
+
+.h-40vh
+{
+    height: 35vh;
+}
+
+.adj-img
+{
+    align-content: center;
+
+}
+
+.adj-img img
+{
+}
+
+.img-contain
+{
+   overflow: hidden;
+   transition: 1s;
+}
+
+.img-container
+{
+   overflow: hidden;
+}
+.card-hover 
+{
+transition: 1s;
+}
+
+.card-hover:hover .progress-bar
+{
+width: 100%;
+}
+.card-hover:hover .img-contain
+{
+    transform: rotate(-6deg) scale(1.2); 
+    
+    overflow: hidden;
+
+}
+.card-hover:hover .icons-hover
+{
+background-color: rgb(13, 106, 212);
+}
+.partner
+{
+    width: 100%;
+    height: 100%;
+    
+}
+.icons-hover
+{
+    background-color: black;
+}
+
+.w-12
+{
+    width: 12%;
+}
+.small-t
+{
+    font-size: small;
+}
+
+.progress-bar
+{
+    height: 2px;
+    width: 25%;
+}
+
+.progress 
+{
+    height: 2px;
+}
+
+.walk
+{
+    left: 23%;
+    top: 33%;
+}
+.h-242
+{
+    height: 3px;
+    border: 0;
+    background-color: blue;
+}
+
+.image-adjustment
+{
+    height: 70px;
+    width: 100%;
+    margin-right: 20px;
+}
+.w-4px
+{
+    margin: 0;
+    padding: 0;
+    width: 30%;
+    border: solid 1px black;
+    margin: 5px;
+    padding: 4px;
+    
+}
+.btn-last-custom
+{
+  
+    left: 75%;
+    position: absolute;
+    height: 40px;
+    top: 39%;
+}
+.icon-last
+{
+    margin-left: 20%;
+    font-size: 100px;
+
+}
+
+.img-shad
+{
+   filter: drop-shadow( 0 0 10px rgb(92, 87, 87));
+}
+
+.div-pos-adj
+{
+    top: 30%;
+    left: 28%;
+}
+
+.arrow-up
+{
+bottom: 20px;
+right: 20px;
+position: fixed;
+display: none;
+width: 30px;
+height: 30px;
+padding-left: 7px;
+}
+
+.owl-nav
+{
+    text-align: center;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.contact-bgImg
+{
+background-image: url(../imgs/slider1.jpg);
+width: 100%;
+height: 50vh;
+}
+
+.contact-bgImg-overlay
+{
+background-color: rgba(26, 25, 25, 0.777);
+width: 100%;
+height: 100%;
+} 
+
+.h-pxls
+{
+    height: 20vh;
+}
+
+
+
+
+
+
+
+
+
+
+ 
